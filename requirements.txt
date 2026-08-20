@@ -7,7 +7,6 @@ anyio==4.9.0
 appnope==0.1.4
 asttokens==3.0.0
 attrs==25.3.0
-audioop-lts==0.2.1
 Brotli==1.1.0
 cachetools==5.5.2
 certifi==2025.7.14
@@ -132,3 +131,4 @@ websockets==15.0.1
 xxhash==3.5.0
 yarl==1.20.1
 zstandard==0.23.0
+langchain-openrouter==0.2.8
